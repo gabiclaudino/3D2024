@@ -19,3 +19,24 @@
 
 </body>
 </html>
+!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu projeto de Vida</title>
+</head>
+<body>
+    <section class="conteudo principal"></section>
+
+
+    <h2 class="titulo principal">Minha futura profissão</h2>
+       <button class="botao">Opcões</button>
+       <button class="botao">Nutrição</button>
+       <button class="botao">Biomedicina</button>
+       <button class="botao">Estética e cosmédicos</button>
+
+
+
+</body>
+</html>
